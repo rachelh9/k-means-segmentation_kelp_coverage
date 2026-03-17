@@ -4,7 +4,7 @@
 Bull kelp forest are the official marine forest in Washington, with April 16 listed as Bull Kelp Day. However, due to climate-driven ocean warming and increasing grazing pressure, 80-90% of bull kelp forests have disappeared in the Puget Sound. 
 Bull kelp forests serves as an important habitat for rockfish, sea otters, herons and are a culture heritage for a lot of Pacific Northwest (PNW) tribes. They also protects coast from erosion during storms as they act as a natural physical buffer that reduces energy of incoming tidal waves. Most importantly, the marine forests acts as a huge carbon sink, absorbing 27-136 metric tons of carbon per day, which is roughly equivalent to 2000-10500 vehicles emissions per year.
 
-To better understand the 
+Elliot Bay is located off the Seattle Aquarium Pier, which supports a local kelp colony. The kelp colony grows the most in summer, 
 
 
 For more background on K-Means segmentation, its use cases, and the code and image processing behind this model, please visit https://oceancv.org/book/ClusterSegmentation_Kmeans.html# created by Katie Bigham and Atticus Carter for the University of Washington's OCEAN 462C course "Computer Vision Across the Marine Sciences".
